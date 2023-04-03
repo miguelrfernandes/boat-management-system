@@ -1,0 +1,134 @@
+body {
+    background-color: white;
+    padding-top: 40px; 
+    text-align: center;
+}
+h1,
+h2,
+h3,
+p {
+    text-align: center;
+    color: #34568B;
+    font-family: Arial;
+}
+a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+tr,
+table {
+    text-align: center;
+    vertical-align: middle;
+    color: black;
+    font-family: Arial;
+    line-height: 25px;
+    width: 100%;
+}
+td {
+    border: 0.5px solid black; 
+    text-align: center;
+}
+
+th {
+    border: 0.5px solid black; 
+    text-align: center;
+    background-color: wheat;
+}
+.main {
+    color: white;
+    font-family: Arial;
+    background-color: #34568B;
+    border: 2px outset black;
+    border-radius: 15px;
+    padding: 10px 5px 10px 5px;
+    margin: 30px auto 30px auto;
+    max-width: 350px;
+}
+.go_initial {
+    font-family: Arial;
+    background-color: #CD5C5C;
+    border: 2px outset black;
+    border-radius: 15px;
+    padding: 5px 5px 5px 5px;
+    margin: 30px auto 30px auto;
+    width: 250px;
+}
+.go_reservations {
+    font-family: Arial;
+    background-color: rgb(71, 141, 71);
+    border: 2px outset black;
+    border-radius: 15px;
+    padding: 5px 5px 5px 5px;
+    margin: 30px auto 30px auto;
+    width: 250px;
+}
+.go_trips {
+    font-family: Arial;
+    background-color: rgb(228, 167, 1);
+    border: 2px outset black;
+    border-radius: 15px;
+    padding: 5px 5px 5px 5px;
+    margin: 30px auto 30px auto;
+    width: 120px;
+}
+input[type=submit] {
+    width: 15em;  height: 3em;
+    font-family: Arial;
+    font-size: 12px;
+    color: white;
+    border: 2px outset black;
+    background-color: #1674d1;
+    border-radius: 15px;
+    cursor: pointer
+}
+input[type=button] {
+    font-family: Arial;
+    font-size: 15px;
+    width: auto;  height: 20px;
+    color: rgb(158, 65, 65);
+    border: none;
+    margin: 5px auto -5px 5px;
+    background-color: white;
+    display: inline-block;
+    vertical-align: baseline;
+    cursor: pointer;
+    text-decoration: underline;
+}
+input[type=text] {
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+}
+input[type=radio],
+input.radio {
+    width: auto;
+    vertical-align: center;
+}
+footer {
+    position: fixed;  
+    bottom: 0; left: 0; right: 0;
+    height: 30px; 
+    background-color: #f1f1f1;
+    text-align: center; 
+}
+input{
+    width: 100%;
+}
+select {
+    width: 100%; 
+    text-align:center;
+}
+button {
+    font-family: Arial;
+    font-size: 18px;
+    width: 100%; 
+    text-align:center;
+    padding: 3px 3px 3px 3px;
+    border: 1px outset black;
+    background-color: #f2f2f2;
+    cursor: pointer;
+    color: #34568B;
+    border-radius: 15px;
+}
