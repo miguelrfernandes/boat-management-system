@@ -1,8 +1,6 @@
 # Boat Management System
 
-[![IMAGE ALT TEXT](https://i9.ytimg.com/vi/CYcBWsOI6Yg/mqdefault.jpg?v=6429d304&sqp=CODsqqEG&rs=AOn4CLDCK2pqTto-ik2aZuAMxxlajA2sMg)](https://www.youtube.com/watch?v=CYcBWsOI6Yg "Boat Management System")
-
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+[<img src="https://ibb.co/wKtQJ1L" width="50%">](https://www.youtube.com/watch?v=CYcBWsOI6Yg "Boat Management System")
 
 
 This repository houses the project that was developed for the Information Systems and Databases course at Instituto Superior Técnico during the 1st semester of the 2022/2023 academic year.
