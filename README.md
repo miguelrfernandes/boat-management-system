@@ -1,9 +1,14 @@
 # Boat Management System
 
+This repository houses the project that was developed for the Information Systems and Databases course at Instituto Superior Técnico during the 1st semester of the 2022/2023 academic year.
+
+##
+
+### Click on this image to access the video explanation of the project:
+
 [<img src="https://img.youtube.com/vi/CYcBWsOI6Yg/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=CYcBWsOI6Yg "Boat Management System")
 
-
-This repository houses the project that was developed for the Information Systems and Databases course at Instituto Superior Técnico during the 1st semester of the 2022/2023 academic year.
+##
 
 ### Scan this QR code to access the developed web application:
 
